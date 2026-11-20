@@ -1,2 +1,2 @@
 # input-output-logic
-trying to write input output logic as a code
+trying to write input output logic as code
